@@ -1,1 +1,1 @@
-Create a simple Google Apps Script that lists files in a Drive folder.
+Create Google Apps Script that lists files in a Drive folder.
